@@ -83,8 +83,6 @@
 		96D145DF177A3CFD00DD84C5 /* FileManipulate */ = {
 			isa = PBXGroup;
 			children = (
-				96D145E8177A3CFD00DD84C5 /* AppDelegate.h */,
-				96D145E9177A3CFD00DD84C5 /* AppDelegate.m */,
 				96D145F1177A3CFD00DD84C5 /* MainStoryboard.storyboard */,
 				96D145F4177A3CFD00DD84C5 /* ViewController.h */,
 				96D145F5177A3CFD00DD84C5 /* ViewController.m */,
@@ -96,6 +94,8 @@
 		96D145E0177A3CFD00DD84C5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96D145E8177A3CFD00DD84C5 /* AppDelegate.h */,
+				96D145E9177A3CFD00DD84C5 /* AppDelegate.m */,
 				96D145E1177A3CFD00DD84C5 /* FileManipulate-Info.plist */,
 				96D145E2177A3CFD00DD84C5 /* InfoPlist.strings */,
 				96D145E5177A3CFD00DD84C5 /* main.m */,
